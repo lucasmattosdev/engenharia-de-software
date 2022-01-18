@@ -1,8 +1,6 @@
 # Engenharia de Software
-Conceitos desde boas práticas a arquitetura.
-
-Este repo tem como objetivo de disseminar o conhecimento sobre alguns conceitos importantes para um engenheiro de software.
-Além de servir como um guia para qualquer eventual consulta.
+Este repo tem como objetivo de disseminar o conhecimento sobre alguns conceitos importantes para um engenheiro de software,
+além de servir como um guia para qualquer eventual consulta.
 
 ### Links
 1. [Rest Protocols](./rest-protocols.md) `Em breve`
